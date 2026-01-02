@@ -47,6 +47,7 @@ Both get you to the destination (a figure), but:<br>
 * [Dash Cheatsheet](https://dash-example-index.herokuapp.com/cheatsheet)
 * [Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
 * [Dash Bootstrap Theme Explorer](https://hellodash.pythonanywhere.com/)
+* [Plotly](https://plotly.com/python/?_gl=1*e9r9hi*_gcl_au*MTM2MDA0MzQ0Mi4xNzY2MDY4MDE0*_ga*MjA2MDY2OTc3NS4xNzY2MDY4MDE1*_ga_6G7EE0JNSC*czE3NjczODE5MDIkbzE4JGcxJHQxNzY3MzgyMTc4JGo0OCRsMCRoMA..)
 
 ## YT vide0
 * [callbacks](https://www.youtube.com/watch?v=pNMWbY0AUJ0)
