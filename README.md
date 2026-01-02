@@ -35,12 +35,6 @@ uv run apps/example_app.py
 ```
 Open http://127.0.0.1:8050 in your browser (port may vary).
 
-## Suggested structure
-- apps/        - example Dash app files
-- data/        - small sample datasets
-- docs/        - notes, screenshots
-- requirements.txt (optional)
-
 ## Notes
 - This repo is for learning only — expect quick experiments, hacks and rough code.
 - No strict API stability or production configs are provided.
