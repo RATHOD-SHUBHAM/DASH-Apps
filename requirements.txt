@@ -1,0 +1,10 @@
+dash
+plotly[express]
+pandas
+pandas-datareader
+scikit-learn 
+scipy 
+matplotlib
+yfinance
+dash-bootstrap-components
+dash-bootstrap-templates
